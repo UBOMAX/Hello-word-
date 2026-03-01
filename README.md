@@ -1,4 +1,4 @@
 # Hello-world-
 this is my first github
 <br> 
-author - Shounak Chowdhury 
+<h1>author - Shounak Chowdhury</h1> 
