@@ -1,2 +1,3 @@
-# Hello-word-
-this is my first github 
+# Hello-world-
+this is my first github
+author - Shounak Chowdhury 
